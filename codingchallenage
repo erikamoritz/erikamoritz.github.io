@@ -1,9 +1,11 @@
 <html>
 <head>
   <title>Recipes- Chicken Parmesan</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="codingchallenge2.css">
 </head>
 <body>
-<h1 style="color: red">Chicken Parmesan</h1>
+<h1>Chicken Parmesan</h1>
 
   <p>The delicious italian dish can remind you of sunday night dinners and bring you back to your childhood</p>
 

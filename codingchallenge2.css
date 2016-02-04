@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
+h2 {
+  font-weight: normal;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+body {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Shadows into Light", cursive;
+}
