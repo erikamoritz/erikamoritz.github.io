@@ -5,10 +5,13 @@
   <link rel="stylesheet" href="codingchallenge2.css">
 </head>
 <body>
+  <div id="header"
 <h1>Chicken Parmesan</h1>
-
+</div>
+<div id="h2"
   <p>The delicious italian dish can remind you of sunday night dinners and bring you back to your childhood</p>
-
+</div>
+<div id="ingrediants"
   <h2>Ingrediants for sauce:</h2>
   <ul>
     <li>1/2 large yellow onion to make 3/4 cup of grated onion</li>
@@ -31,7 +34,8 @@
     <li>2 tbsp fresh basil leaves</li>
     <li>8 ounces mozzarella cheese, sliced</li>
   </ul>
-
+</div>
+<div id="directions"
   <h2>Directions:</h2>
   <ol>
     <li>Add onions and garlic to pan with olive oil</li>
@@ -42,5 +46,6 @@
     <li>Then cook in pan with oil</li>
     <li>Once cooked, add cheese and sauce on top of the chicken and enjoy</li>
   </ol>
+</div>
 </body>
 </html>

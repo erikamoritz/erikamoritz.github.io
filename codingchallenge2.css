@@ -12,3 +12,30 @@ body {
   font-size: 30px;
   font-family: "Shadows into Light", cursive;
 }
+#header {
+  font-weight: bold;
+  font-size: 55px;
+  text-align: center;
+  color: red;
+  }
+#h2 {
+  text-align: center;
+  color: orange;
+  font-size: 22px;
+}
+#ingrediants{
+  width: 50%;
+  padding: 5px;
+  margin: 0px;
+  box-sizing: border-box;
+  float: left;
+  border: solid grey 2px;
+}
+#directions {
+  width: 50%;
+  padding: 5px;
+  margin: 0px;
+  box-sizing: border-box;
+  float: left;
+  border: solid grey 2px;
+}
