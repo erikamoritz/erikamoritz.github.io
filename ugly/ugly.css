@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+header {
+  background-color: yellow;
+  font-family: Lobster;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
+#poem1 {
+  border: 15px dashed green;
+  background-color: maroon;
+  float: left;
+  color: orange;
+  font-size: 27px;
+  width: 45%;
+}
+#poem2 {
+  border: 10px solid blue;
+  background-color: pink;
+  float:left;
+  color: purple;
+  font-size: 20px;
+  width: 50%;
+}
+title1 {
+  font-weight: bold;
+  font-size: 40px;
+  color:red;
+  font-style: italic;
+}
+title2 {
+  font-weight: bold;
+  font-size: 30px;
+  color: green;
+  font-family: monospace;
+}
