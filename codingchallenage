@@ -5,9 +5,9 @@
   <link rel="stylesheet" href="codingchallenge2.css">
 </head>
 <body>
-  <div id="header"
+  <header>
 <h1>Chicken Parmesan</h1>
-</div>
+</header>
 <div id="h2"
   <p>The delicious italian dish can remind you of sunday night dinners and bring you back to your childhood</p>
 </div>
