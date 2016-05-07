@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:700);
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:700italic);
+.header{
+  text-align: center;
+  font-size: 25;
+  font-weight: 200;
+}
+#mainheader {
+  padding-top: 50px;
+  padding-bottom: 490px;
+  font-family: Poiret One;
+  color: white;
+  background-image: url(../front.jpg);
+  background-position: center;
+  background-size: cover;
+}
+body{
+  background-repeat: no-repeat;
+}
+#row {
+  color: white;
+}
+a {
+  color: white;
+}
+#mainbottom {
+  font-family: Dancing Script;
+  font-size: 50;
+}
+#executivemain {
+  color: #FFAAAA;
+  font-size: 50;
+  font-family: Abril Fatface;
+  padding-top: 60px;
+  padding-bottom: 80px;
+  background-color: #AA3939;
+}
+#executivebottom {
+  font-family: Merriweather;
+  font-size: 20;
+  background-color: #FFAAAA;
+  color: #550000;
+}
+#quote{
+  color: #550000;
+}
+#reddress {
+  background-image: url(../reddress.png);
+  padding-top: 5px;
+  padding-bottom: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#tagline {
+  font-family: Merriweather;
+  font-size: 20;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  color: #550000;
+}
+#philanthropybottom {
+  background-color: #FFAAAA;
+  font-family: Merriweather;
+  font-size: 19;
+  color: #550000;
+  padding-bottom: 20px;
+}
+#reddress1 {
+  font-family: Merriweather;
+  font-size: 20;
+  color: #550000;
+}
+#sisterhoodbottom {
+  background-color: #FFAAAA;
+  font-family: Merriweather;
+  font-size: 20;
+  color: #550000;
+}
+#sisterhoodline{
+    background-color: #FFAAAA;
+    text-align: center;
+}
+#events {
+  text-align: center;
+}
+#sisterquote {
+  text-align: center;
+}
